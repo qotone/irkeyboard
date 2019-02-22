@@ -18,5 +18,7 @@ make
 
 ## Usages
 
-
+```shell
+export QT_QPA_GENERIC_PLUGINS=irkeyboard:/dev/Hi_IR
+```
 
